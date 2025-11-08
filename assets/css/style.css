@@ -1,0 +1,232 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: white;
+    padding: 15px;
+    border-bottom: 2px solid #ddd;
+}
+
+header .fs-4 {
+    color: #333;
+    font-weight: bold;
+}
+
+.nav-pills .nav-link {
+    color: #555;
+    margin: 5px;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+.nav-pills .nav-link:hover {
+    background-color: #e9ecef;
+    text-decoration: none;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #007bff;
+    color: white;
+}
+
+
+.container {
+    padding: 20px;
+}
+
+
+.card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.card-title {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+
+.form-label {
+    color: #333;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.form-control:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-outline-secondary {
+    background-color: white;
+    color: #6c757d;
+    border: 1px solid #6c757d;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #6c757d;
+    color: white;
+}
+
+
+.dropdown-toggle {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+    text-align: left;
+    border-radius: 4px;
+}
+
+.dropdown-menu {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: white;
+}
+
+.dropdown-item {
+    padding: 10px 15px;
+    color: #333;
+}
+
+.dropdown-item:hover {
+    background-color: #f8f9fa;
+}
+
+
+.alert {
+    padding: 15px;
+    border-radius: 4px;
+    margin-top: 15px;
+}
+
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+.d-none {
+    display: none;
+}
+
+
+.feature {
+    text-align: center;
+    padding: 20px;
+}
+
+.feature-icon {
+    margin-bottom: 15px;
+}
+
+.feature-icon img {
+    width: 100px;
+    height: 100px;
+}
+
+.feature h3 {
+    color: #333;
+    font-size: 20px;
+    margin: 15px 0;
+}
+
+.feature p {
+    color: #666;
+    line-height: 1.6;
+}
+
+.icon-link {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.icon-link:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+
+hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 30px 0;
+}
+
+
+.mb-3 {
+    margin-bottom: 15px;
+}
+
+.mb-4 {
+    margin-bottom: 25px;
+}
+
+.mt-2 {
+    margin-top: 10px;
+}
+
+.mt-4 {
+    margin-top: 25px;
+}
+
+.py-2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.py-3 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
